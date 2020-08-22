@@ -4,7 +4,7 @@
     right: 66px;
   }
 
-/* Qualidade Home */
+  /* Qualidade Home */
   .qualidade ul li {
     padding: 0 10px;
   }
@@ -13,7 +13,7 @@
     right: 66px;
   }
 
-/* Footer */
+  /* Footer */
 
   .footer_rede ul li a {
     border: 3px solid #fec63e;
@@ -49,7 +49,6 @@
     height: 49px;
   }
 }
-
 
 /* Final do Estilo para Tablet */
 
@@ -172,8 +171,37 @@
     margin-bottom: 40px;
   }
 
+  /* Dados Produtos */
+
+  .dados-bikcraft {
+    margin: 40px;
+  }
+
+  .dados-bikcraft h3 {
+    text-align: center;
+  }
+
+  .contato-dados ul li {
+    padding: 10px;
+  }
+
+  .endereco {
+    text-align: center;
+  }
+
+  .subtitulo-redes {
+    text-align: center;
+  }
+
+  .endereco ul {
+    text-align: center;
+    padding: 5px;
+  }
+
   /* Footer */
-  .footer_historia, .footer_rede, .footer_contato {
+  .footer_historia,
+  .footer_rede,
+  .footer_contato {
     padding: 0 0 0 0;
     text-align: center;
   }
